@@ -1,2 +1,8 @@
-# portfolio
-放於自己曾經做的作品
+# 作品集
+
+# Rhythm Galaxy
+<h6> 音樂網站，此用於儲存小專題繳交的作業。
+
+Music website, this is used to store assignments submitted for small topics.
+
+![Image 1](RhythmGalaxy.png)
