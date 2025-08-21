@@ -1,8 +1,8 @@
 # 作品集
 
 # Rhythm Galaxy
-<h6> 音樂網站，此用於儲存小專題繳交的作業。
-
-Music website, this is used to store assignments submitted for small topics.
+#### 音樂網站-多語系&會員後台/管理後台
+* 技術工具： CSS/JavaScript/PHP/MySQL
+* 專案描述：本專案提供一個全面性的數位音樂聆聽體驗。透過整合使用者在日常中探索音樂的多元管道，包括電台、近期精彩活動、專屬節目與音樂類型，打造一個多元性的平台，提升使用者聆聽的觸及率與便利性。
 
 ![Image 1](RhythmGalaxy.png)
